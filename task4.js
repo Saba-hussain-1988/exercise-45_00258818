@@ -14,4 +14,4 @@ var famousPerson = "Albert Einstein";
 var quote = `"A person who never made a mistake never tried anything new."`;
 
 // print the message with name
-console.log (personName + " once said, " + quote);
+console.log (famousPerson + " once said, " + quote);
