@@ -6,9 +6,9 @@
   function show_magicians(magicians) {
     // Loop through the array and print the name of each magician
     
-    for (var h = 0; h< magicians.length; h++) {
-        console.log(magicians[h]);
-    };
+    for (var i = 0; i < magicians.length; i++) {
+        console.log(  magicians[i] );
+    }
 }
 
 // Define the make_great function
