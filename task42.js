@@ -7,7 +7,7 @@
     // Loop through the array and print the name of each magician
     
     for (var h = 0; h< magicians.length; h++) {
-        console.log(magicians[i]);
+        console.log(magicians[h]);
     };
 }
 
